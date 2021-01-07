@@ -1,0 +1,16 @@
+[
+{
+  "modid": "afkbot",
+  "name": "AFKBot",
+  "description": "Automatically kicks player when getting damage.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["justAm0dd3r"],
+  "credits": "Forge, MC, justAm0dd3r",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

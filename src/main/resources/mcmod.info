@@ -2,7 +2,7 @@
 {
   "modid": "afkbot",
   "name": "AFKBot",
-  "description": "Automatically kicks player when getting damage.",
+  "description": "Automatically kicks players when getting damage.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
